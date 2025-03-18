@@ -14,15 +14,7 @@ A simple and intuitive investment calculator built with React. This app helps us
 
 ## Live Demo
 
-Check out the live demo of the app [here](#) (add your live demo link).
-
-## Screenshots
-
-![Screenshot 1](#)  
-_Add a screenshot of your app here._
-
-![Screenshot 2](#)  
-_Add another screenshot of your app here._
+Check out the live demo of the app [https://investment-calculator-erwinllano.vercel.app/](#) (add your live demo link).
 
 ## Installation
 
