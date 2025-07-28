@@ -12,6 +12,12 @@ body {
   background: radial-gradient(#303b37, #1a1f1d);
   color: #e1eeeb;
   min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers horizontally */
+  min-height: 100vh;
+  margin: 0;
 }
 
 #header {
@@ -88,5 +94,5 @@ body {
 }
 
 .d-center {
-  display: block;
+  margin: 10px 0;
 }
